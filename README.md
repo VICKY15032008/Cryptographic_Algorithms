@@ -33,4 +33,4 @@ To start exploring the repository, follow these simple steps:
    Open your terminal and run:
 
    ```bash
-   git clone https://github.com/your-username/crypto-algorithms.git
+   git clone https://github.com/VICKY15032008/Cryptographic_Algorithms.git
