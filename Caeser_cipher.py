@@ -10,6 +10,7 @@ for letter in d:
         e_message+=encryption[new]
 print(e_message)  
 
+
 for inset in range(0,27):
     d_message=''
     for chat in e_message:
